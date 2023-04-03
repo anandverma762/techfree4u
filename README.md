@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techfree4u
-- 👀 I’m interested in Software development in C,C++,JAVA, Python, Forex market,Stock market.
+- 👀 I’m interested in Software development in C,C++,JAVA, Python,JavaScript, Forex market,Stock market.
 - 🌱 I’m currently learning Full stack web development . 
 - 💞️ I’m looking to collaborate on Software Development , Robot in MQL4 for Forex Market.
 - 📫 How to reach me contact at:- anandverma762@gmail.com
